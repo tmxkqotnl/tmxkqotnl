@@ -1,15 +1,6 @@
-<head>
-  <style>
-      ul{
-        list-style : none;
-      }
-  </style>
-</head>
-<h1>????</h1>
-
-<h2>참고용</h2>
+<h1>참고용</h1>
 <div>
-  <ul>
+  <ul style="list-style:none; font-style:italic;">
     <li>개인 스터디 - repo_studying_</li>
     <li>단체 스터디 - repo_study_</li>
     <li>프로젝트 - project_</li>
