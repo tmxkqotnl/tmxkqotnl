@@ -1,8 +1,15 @@
+<head>
+    <style>
+      ul{
+        list-style : none;
+      }
+  </style>
+  </head>
 <h1>????</h1>
 
 <h2>참고용</h2>
 <div>
-  <ul style ="list-style:none;">
+  <ul>
     <li>개인 스터디 - repo_studying_</li>
     <li>단체 스터디 - repo_study_</li>
     <li>프로젝트 - project_</li>
