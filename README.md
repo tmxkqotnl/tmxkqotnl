@@ -1,10 +1,10 @@
 <head>
-    <style>
+  <style>
       ul{
         list-style : none;
       }
   </style>
-  </head>
+</head>
 <h1>????</h1>
 
 <h2>참고용</h2>
