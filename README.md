@@ -9,5 +9,15 @@
     <li>단순 테스트 - repo_test_memo</li>
   </ul>
 </div>
-
+---------------------------------------
+#### 수정 2022년 02월 25일
+<div>
+  <ul>
+    <li>공부 - studying_</li>
+    <li>프로젝트 - project_</li>
+      - mini
+      - etc .. 
+    <li>단순 테스트 - repo_test_memo</li>
+  </ul>
+</div>
 
