@@ -2,4 +2,4 @@
 
 renewal
 
-all project repos had truncated 
+all project repos has been truncated 
